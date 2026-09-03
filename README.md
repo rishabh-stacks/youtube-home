@@ -1,0 +1,52 @@
+# YouTube Home
+
+A pixel-perfect design of the YouTube HomePage, built using **HTML** and **CSS**. This project recreates YouTube's core interface — header, sidebar, and video grid — with clean, semantic markup and modular stylesheets.
+
+**Live Demo** [[https://rishabh-stacks.github.io/youtube-home/]](https://rishabh-stacks.github.io/youtube-home/)
+
+---
+
+## ✨ Features
+
+- **Header** — Hamburger Menu, YouTube Logo, Search Bar & Voice Search, upload/create Icon, Notifications, and User Avatar
+- **Sidebar Navigation** — Home, Shorts, Explore, Subscriptions, YouTube Music, and Library links
+- **Dynamic Video Grid** — Thumbnails, Video Duration Badges, channel Avatars, video titles, channel names, and view/upload stats
+- **Hover Tooltips** — Icon tips on Header elements for better UX
+- **Compilation** — Compilation of some of my Favorite YouTube Videos 
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5** — semantic structure
+- **CSS3** — Flexbox/Grid based layouts
+- **Google Fonts** — Roboto, Arial
+
+---
+
+## 📁 Project Structure
+
+```
+Youtube-UI/
+├── index.html
+├── styles/
+│   ├── general.css
+│   ├── header.css
+│   ├── video.css
+│   └── sidebar.css
+├── header-icons/
+├── sidebar-icons/
+├── channel-pics/
+└── thumbnails/
+```
+---
+
+## 📌 Notes
+
+This is a **Front-End UI Design** for Practice Purposes only. All Video Links, Thumbnails, and Channel References Point to Real YouTube Content for Demonstration and are not Owned by this Project.
+
+---
+
+## 📄 License
+
+This project is Open Source and available for Learning Purposes.
