@@ -1,6 +1,6 @@
 # YouTube Home
 
-A pixel-perfect design of the YouTube HomePage, built using **HTML** and **CSS**. This project recreates YouTube's core interface — header, sidebar, and video grid — with clean, semantic markup and modular stylesheets.
+A pixel-perfect design of the YouTube HomePage, built using **HTML** and **CSS**. This project recreates YouTube's Basic Interface — header, sidebar, and video grid — with clean, semantic markup and modular stylesheets.
 
 **Live Demo :** [YouTube Home](https://rishabh-stacks.github.io/youtube-home/)
 
